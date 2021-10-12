@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Eisenhower</string>
+    <string name="ajouter_une_tache">Ajouter une tache</string>
+    <string name="urgent_important">Urgent \nImportant\n %1$d</string>
+    <string name="urgent_pas_important">Urgent \nPas Important\n %1$d</string>
+    <string name="important_pas_urgent">Important \nPas Urgent\n %1$d</string>
+    <string name="pas_important_pas_urgent">Pas Important \nPas Urgent\n %1$d</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="titre">Titre</string>
+    <string name="description">Description</string>
+    <string name="date">Date %1$s</string>
+    <string-array name="choix_liste">
+        <item>Urgent - Important</item>
+        <item>Urgent - Pas Important</item>
+        <item>Important - Pas urgent</item>
+        <item>Pas Important - Pas Urgent</item>
+    </string-array>
+    <string name="title_activity_item">ItemActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
